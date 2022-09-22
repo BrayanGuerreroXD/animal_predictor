@@ -6,4 +6,6 @@ Predictor de animales empleando Transformers de Google para predecir imagenes de
 
 Al algoritmo se le inserta una URL de alguna imagen en los formatos png, jpg y jpeg en la cual predice el animal y la clase de animal que se encuentra en la imagen, como por ejemplo:
 
-![ejemplo](/Images/ejemplo.png)
+<img src="/Images/ejemplo_1.png" width="600px">
+
+![ejemplo_2](/Images/ejemplo_2.png)
